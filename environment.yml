@@ -11,3 +11,5 @@ dependencies:
     - osmnx
     - openpyxl
     - matplotlib
+    - folium 
+    - mapclassify
