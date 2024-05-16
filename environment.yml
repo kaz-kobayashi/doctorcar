@@ -10,3 +10,4 @@ dependencies:
     - geopandas
     - osmnx
     - openpyxl
+    - matplotlib
